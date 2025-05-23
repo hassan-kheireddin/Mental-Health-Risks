@@ -4,7 +4,12 @@
 <img src="analysis/visualizeData.png" alt="Alt text" width="800"/>
 
     Dataset Overview:
-    The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering a wide range of variables related to sleep and daily habits. It includes details such as gender, age, occupation, sleep duration, quality of sleep, physical activity level, stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence or absence of sleep disorders.
+    The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns,
+    covering a wide range of variables related to sleep and daily habits.
+    It includes details such as gender, age, occupation, sleep duration,
+    quality of sleep, physical activity level, stress levels,
+    BMI category, blood pressure, heart rate, daily steps,
+    and the presence or absence of sleep disorders.
 
 <hr>
 <h2>Analyze Data</h2>
@@ -34,20 +39,26 @@ __Hence females have better sleep quality than males, which could be reason why 
     - Nurses divided by 2 experience: their job very stressful or not stressful at all
     - Lawyers are somewhere in the middle. Their job is not that intense
     - Teachers and Accountants and Engineers are feel less stressful
-    - With age doctors, teachers and engineers are less stressed
-    - Accountants are more stressed with age
-    - Nurses have different distribution, going down with age, raising at pick near 50 years and then significally go down.
 
 <h3>Scatter plot to represents each proffesion by age and stress level:</h3>
 <img src="analysis/ageOccupanalyze.png" alt="Alt text" width="800"/>
 
     * With age doctors, teachers and engineers are less stressed
     * Accountants are more stressed with age
-    * Nurses have different distribution, going down with age, raising at pick near 50 years and then significally go down.
+    * Nurses have different distribution, going down with age,
+    raising at pick near 50 years and then significally go down.
 
 <h2><b> Conclusion:</b></h2>
 
-    First of all, the result doesn't mean that men have more stressful jobs than women. It can be explained, that male are feel that they are under more stress. It is might also mean, that men do not no or spend enough time for relaxations. Different industries and occupations have their own unique stressors. For example, jobs that involve high levels of responsibility, long working hours, and high-pressure decision-making, such as corporate leadership roles or certain healthcare professions, can be stressful regardless of gender. This results simply mean, that men should pay more attention to their stress level. Be aware of how they feel and spend more time to find healthy relaxation habits and care about quality of sleep. 
+    First of all, the result doesn't mean that men have more stressful jobs than women.
+    It can be explained, that male are feel that they are under more stress.
+    It is might also mean, that men do not no or spend enough time for relaxations.
+    Different industries and occupations have their own unique stressors.
+    For example, jobs that involve high levels of responsibility, long working hours,
+    and high-pressure decision-making, such as corporate leadership roles or certain
+    healthcare professions, can be stressful regardless of gender. This results simply mean,
+    that men should pay more attention to their stress level. Be aware of how they feel and
+    spend more time to find healthy relaxation habits and care about quality of sleep. 
 
     Transition periods: Young people go through significant life transitions, such as moving from high school to college, entering the workforce, or starting independent living. These transitions can bring about new responsibilities, expectations, and challenges, which can lead to increased stress.
 
