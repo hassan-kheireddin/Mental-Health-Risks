@@ -50,7 +50,7 @@ __Hence females have better sleep quality than males, which could be reason why 
 
 <h2><b> Conclusion:</b></h2>
 
-    First of all, the result doesn't mean that men have more stressful jobs than women.
+    - First of all, the result doesn't mean that men have more stressful jobs than women.
     It can be explained, that male are feel that they are under more stress.
     It is might also mean, that men do not no or spend enough time for relaxations.
     Different industries and occupations have their own unique stressors.
@@ -60,12 +60,25 @@ __Hence females have better sleep quality than males, which could be reason why 
     that men should pay more attention to their stress level. Be aware of how they feel and
     spend more time to find healthy relaxation habits and care about quality of sleep. 
 
-    Transition periods: Young people go through significant life transitions, such as moving from high school to college, entering the workforce, or starting independent living. These transitions can bring about new responsibilities, expectations, and challenges, which can lead to increased stress.
+    - Transition periods: Young people go through significant life transitions,
+    such as moving from high school to college, entering the workforce,
+    or starting independent living. These transitions can bring about new responsibilities,
+    expectations, and challenges, which can lead to increased stress.
 
-    Academic pressures: The academic demands placed on young people, such as exams, assignments, and expectations for achievement, can be a significant source of stress. The pressure to perform well academically, meet deadlines, and make important decisions about future career paths can contribute to high stress levels.
+    - Academic pressures: The academic demands placed on young people, such as exams, assignments,
+    and expectations for achievement, can be a significant source of stress.
+    The pressure to perform well academically, meet deadlines,
+    and make important decisions about future career paths can contribute to high stress levels.
 
-    Career uncertainty: Face uncertainty and pressure when it comes to career choices. The competitive job market, limited work experience, and the desire to find meaningful and fulfilling employment can all lead to increased stress.
+    - Career uncertainty: Face uncertainty and pressure when it comes to career choices. 
+    The competitive job market, limited work experience, and the desire to find meaningful
+    and fulfilling employment can all lead to increased stress.
 
-    Financial concerns: Often face financial stress related to tuition fees, student loans, living expenses, and the transition to financial independence. These financial pressures can cause significant stress and anxiety.
+    - Financial concerns: Often face financial stress related to tuition fees, student loans,
+    living expenses, and the transition to financial independence.
+    These financial pressures can cause significant stress and anxiety.
 
-    Health and self-care: While health concerns can increase with age, some prioritize their well-being and engage in self-care practices. Regular exercise, healthy eating, and appropriate medical care can contribute to better physical and mental health.
+    - Health and self-care: While health concerns can increase with age,
+    some prioritize their well-being and engage in self-care practices.
+    Regular exercise, healthy eating, and appropriate medical care can contribute
+    to better physical and mental health.
